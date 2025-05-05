@@ -97,7 +97,7 @@ if (spending_cash <= 0):
 else:
     print ("Congrats you're not broke :)")
 #savings
-print("Setting money aside in a savings account is",("verry "*2),"important.")
+print("Setting money aside in a savings account is",("very "*2),"important.")
 ans_3=True
 while ans_3:
     ans_3=input("Would you like to set money aside for retirement? :")
